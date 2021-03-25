@@ -9,8 +9,10 @@ This is a simple example to show different parts of the git repository and vario
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos to show that how a git can work with github as stated above.
 
 ## Deployment
+This is the deployment phase change will not be added or commited.
+
 
 ## How to contribute
