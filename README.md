@@ -19,4 +19,4 @@ This is the deployment phase change will not be added or commited.
 Please fork this repository and issue Pull requests for review.
 
 ##Copyright notice
-This is a copyright notice
+This is a copyright notice. All rights reserved.
