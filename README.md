@@ -16,6 +16,7 @@ This is the deployment phase change will not be added or commited.
 
 
 ## How to contribute
+Please fork this repository and issue Pull requests for review.
 
 ##Copyright notice
 This is a copyright notice
