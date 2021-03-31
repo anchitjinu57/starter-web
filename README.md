@@ -16,3 +16,6 @@ This is the deployment phase change will not be added or commited.
 
 
 ## How to contribute
+
+##Copyright notice
+This is a copyright notice
